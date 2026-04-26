@@ -1,4 +1,4 @@
-# Introducción a Notebook - Grupo 00
+# Introducción a Notebook - Grupo 10
 
 ## Curso
 Introducción a la Programación
