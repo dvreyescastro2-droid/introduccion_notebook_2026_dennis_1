@@ -1,4 +1,9 @@
-# Introducción a Notebook - Grupo 10
+
+# Introducción a Notebook - Grupo 10 
+⚠️ HOTFIX APLICADO
+
+Se corrigió un problema crítico en producción.
+
 
 ## Curso
 Introducción a la Programación
